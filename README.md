@@ -46,6 +46,7 @@ Detailed results and plots are stored in the `results/` directory.
 ## Usage
 ### 1. Install dependencies
 ```bash
+pip install numpy pandas scikit-learn
 pip install -r requirements.txt
 ```
 ### 2. Train the model
